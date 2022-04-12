@@ -24,6 +24,18 @@ h1, h2, h3 {
     background-color: rgb(50, 100, 200);
 }
 
+.coulHtml {
+    color: red;
+}
+
+.coulCss {
+    color: blue;
+}
+
+.coulJs {
+    color: yellow;
+}
+
 /* @media screen and (min-width: 1024px) {
     p.box{
         background-color: blue;
