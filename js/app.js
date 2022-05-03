@@ -1,3 +1,1 @@
-let morty = true;
-
-console.log((a,b) => a + b);
+// console.log((a,b) => a + b);
