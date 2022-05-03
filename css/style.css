@@ -7,14 +7,14 @@ html {
 }
 
 body {
-    background: black;
-    color: white;
+    background: white;
+    color: rgb(90, 90, 90);
 }
 
 /* Header */
 
 header {
-    background-color: aliceblue;
+    background-color: #0e304d;
 }
 
 header h2 {
@@ -38,7 +38,7 @@ ul li a {
     display: flex;
     font-size: 2.7rem;
     text-decoration: none;
-    color: blue;
+    color: yellowgreen;
     margin-bottom: 2.4rem;
 }
 
@@ -57,23 +57,18 @@ ul li a {
 
 
 
+/* Mise En Page */
 
-
-
-
-
-
-
-
+.box {
+    text-align: center;
+    font-size: 17px;
+    line-height: 2;
+}
 
 h1, h2, h3 {
     font-size: 3rem;
     font-family: 'Titillium Web', sans-serif;
 }
-
-/* #GrandPapa {
-    
-} */
 
 #TopPage {
     background-color: rgb(50, 100, 200);
@@ -90,6 +85,23 @@ h1, h2, h3 {
 .coulJs {
     color: yellow;
 }
+
+/* Mise En Page End*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /* @media screen and (min-width: 1024px) {
     p.box{
